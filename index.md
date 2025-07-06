@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: default
 title: "Châu Đăng Huy"
 ---
 
