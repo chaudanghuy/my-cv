@@ -30,7 +30,12 @@ Skilled at developing functional prototypes and documentation.
 - Project management skills
 
 **Projects**: Mortgage Portal, Admin Tool  
-**Tech**: PHP, Laravel, VueJS, MySQL, AWS
+**Tech**:  
+<span class="tag">PHP</span>
+<span class="tag">Laravel</span>
+<span class="tag">VueJS</span>
+<span class="tag">MySQL</span>
+<span class="tag">AWS</span>
 
 ---
 
@@ -42,7 +47,11 @@ Skilled at developing functional prototypes and documentation.
 - Code review, hiring
 
 **Projects**: [baolau.com](https://www.baolau.com/), ticket reservation, internal tools  
-**Tech**: PHP, CodeIgniter, CasperJS, MySQL
+**Tech**:  
+<span class="tag">PHP</span>
+<span class="tag">CodeIgniter</span>
+<span class="tag">CasperJS</span>
+<span class="tag">MySQL</span>
 
 ---
 
@@ -53,7 +62,11 @@ Skilled at developing functional prototypes and documentation.
 - Collaborated with FE developers
 
 **Projects**: [propzy.vn](http://propzy.vn), [cms.propzy.vn](http://cms.propzy.vn)  
-**Tech**: Laravel, ReactJS, MySQL, Bootstrap
+**Tech**:  
+<span class="tag">Laravel</span>
+<span class="tag">ReactJS</span>
+<span class="tag">MySQL</span>
+<span class="tag">Bootstrap</span>
 
 ---
 
@@ -63,7 +76,12 @@ Skilled at developing functional prototypes and documentation.
 - Full development lifecycle
 
 **Projects**: EBIS, Account Center, THREE  
-**Tech**: PHP, CakePHP, Linux, PostgreSQL, Hadoop
+**Tech**:  
+<span class="tag">PHP</span>
+<span class="tag">CakePHP</span>
+<span class="tag">Linux</span>
+<span class="tag">PostgreSQL</span>
+<span class="tag">Hadoop</span>
 
 ---
 
@@ -73,7 +91,10 @@ Skilled at developing functional prototypes and documentation.
 - Built SMS gateway & billing system
 
 **Projects**: Wapshop, SMS Gateway, SMS Unlock  
-**Tech**: PHP, Linux, MySQL
+**Tech**:  
+<span class="tag">PHP</span>
+<span class="tag">Linux</span>
+<span class="tag">MySQL</span>
 
 ---
 
@@ -84,17 +105,31 @@ Skilled at developing functional prototypes and documentation.
 - Infrastructure and system optimization
 
 **Projects**: [shop.aothun.vn](http://shop.aothun.vn), internal tools  
-**Tech**: PHP, MySQL
+**Tech**:  
+<span class="tag">PHP</span>
+<span class="tag">MySQL</span>
 
 ---
 
 ## Skills
 
-- PHP, Python, JavaScript (React, VueJS)
-- MySQL, PostgreSQL
-- Laravel, Django, CodeIgniter
-- Docker, AWS, Heroku
-- Agile, Scrum, Testing frameworks
+<span class="tag">PHP</span>
+<span class="tag">Python</span>
+<span class="tag">JavaScript</span>
+<span class="tag">React</span>
+<span class="tag">VueJS</span>
+<span class="tag">Laravel</span>
+<span class="tag">Django</span>
+<span class="tag">CodeIgniter</span>
+<span class="tag">MySQL</span>
+<span class="tag">PostgreSQL</span>
+<span class="tag">AWS</span>
+<span class="tag">Docker</span>
+<span class="tag">Heroku</span>
+<span class="tag">Git</span>
+<span class="tag">Agile</span>
+<span class="tag">Scrum</span>
+<span class="tag">Testing</span>
 
 ---
 
